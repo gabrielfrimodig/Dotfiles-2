@@ -17,8 +17,8 @@ margin-top = 0
 margin-bottom = 0
 
 [bar/dummybar]
-;monitor = HDMI-1
-monitor = eDP-1
+monitor = VGA-1
+;monitor = eDP-1
 width = 100%
 height = 35
 offset-y = 10
@@ -46,8 +46,8 @@ modules-center = dummytext
 
 
 [bar/mainbar]
-;monitor = HDMI-1
-monitor = eDP-1
+monitor = VGA-1
+;monitor = eDP-1
 width = 40%
 height = 35
 offset-y = 10

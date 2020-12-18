@@ -1,0 +1,8 @@
+pane	0	0	:vim	1	:*	0	:/home/dobi/Projects/team-b2.2020/src/include	1	vim	:vim
+pane	0	0	:vim	1	:*	1	:/home/dobi/Projects/team-b2.2020	0	zsh	:
+pane	0	1	:vim	0	:-	0	:/home/dobi	1	vim	:vim .tmux.conf
+pane	0	2	:vim	0	:	0	:/home/dobi/Projects/team-b2.2020/src/include	1	vim	:vim
+window	0	0	1	:*	734e,274x71,0,0[274x54,0,0,3,274x16,0,55,4]
+window	0	1	0	:-	b85e,274x71,0,0,1
+window	0	2	0	:	b862,274x71,0,0,5
+state	0	

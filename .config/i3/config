@@ -317,7 +317,7 @@ exec_always --no-startup-id "sleep 1"
 exec_always --no-startup-id "wal -R"
 
 # Polybar
-exec_always --no-startup-id "sleep 3; ~/.config/polybar/launch.sh"
+#exec_always --no-startup-id "sleep 3; ~/.config/polybar/launch.sh"
 
 
 # Set UTF-8
